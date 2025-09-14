@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m8abstraction/a1abstractClasses/a1abstractClasses.iml" filepath="$PROJECT_DIR$/javaCore/m8abstraction/a1abstractClasses/a1abstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m8abstraction/a3annotations/a3annotations.iml" filepath="$PROJECT_DIR$/javaCore/m8abstraction/a3annotations/a3annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m8abstraction/a4reflections/a4reflections.iml" filepath="$PROJECT_DIR$/javaCore/m8abstraction/a4reflections/a4reflections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m8abstraction/a5lambdaFuctions/a5lambdaFuctions.iml" filepath="$PROJECT_DIR$/javaCore/m8abstraction/a5lambdaFuctions/a5lambdaFuctions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m9collections/c1Introduction/c1Introduction.iml" filepath="$PROJECT_DIR$/javaCore/m9collections/c1Introduction/c1Introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m5encapsulation/e3coreClasses/c1ObjectClass/c1ObjectClass.iml" filepath="$PROJECT_DIR$/javaCore/m5encapsulation/e3coreClasses/c1ObjectClass/c1ObjectClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m4objectsAndClasses/c1classIntro/c1classIntro.iml" filepath="$PROJECT_DIR$/javaCore/m4objectsAndClasses/c1classIntro/c1classIntro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules/m2statements/c1conditionals/c1conditionals.iml" filepath="$PROJECT_DIR$/dsaModules/m2statements/c1conditionals/c1conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m5encapsulation/e3coreClasses/c2Class/c2Class.iml" filepath="$PROJECT_DIR$/javaCore/m5encapsulation/e3coreClasses/c2Class/c2Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m9collections/c2comparableComparator/c2comparableComparator.iml" filepath="$PROJECT_DIR$/javaCore/m9collections/c2comparableComparator/c2comparableComparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m4objectsAndClasses/c2staticMembers/c2staticMembers.iml" filepath="$PROJECT_DIR$/javaCore/m4objectsAndClasses/c2staticMembers/c2staticMembers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules/m2statements/c2switchCases/c2switchCases.iml" filepath="$PROJECT_DIR$/dsaModules/m2statements/c2switchCases/c2switchCases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m5encapsulation/e3coreClasses/c3systemClass/c3systemClass.iml" filepath="$PROJECT_DIR$/javaCore/m5encapsulation/e3coreClasses/c3systemClass/c3systemClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m9collections/c4sets/c4sets.iml" filepath="$PROJECT_DIR$/javaCore/m9collections/c4sets/c4sets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m5encapsulation/e3coreClasses/c4wrapperClass/c4wrapperClass.iml" filepath="$PROJECT_DIR$/javaCore/m5encapsulation/e3coreClasses/c4wrapperClass/c4wrapperClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m9collections/c5maps/c5maps.iml" filepath="$PROJECT_DIR$/javaCore/m9collections/c5maps/c5maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m5encapsulation/e3coreClasses/c5stringClass/c5stringClass.iml" filepath="$PROJECT_DIR$/javaCore/m5encapsulation/e3coreClasses/c5stringClass/c5stringClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m5encapsulation/e3coreClasses/c6arrayClass/c6arrayClass.iml" filepath="$PROJECT_DIR$/javaCore/m5encapsulation/e3coreClasses/c6arrayClass/c6arrayClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m9collections/c6queues/c6queues.iml" filepath="$PROJECT_DIR$/javaCore/m9collections/c6queues/c6queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m5encapsulation/e3coreClasses/c7nestedClass/c7nestedClass.iml" filepath="$PROJECT_DIR$/javaCore/m5encapsulation/e3coreClasses/c7nestedClass/c7nestedClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m9collections/c7vectors/c7vectors.iml" filepath="$PROJECT_DIR$/javaCore/m9collections/c7vectors/c7vectors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m9collections/c8enums/c8enums.iml" filepath="$PROJECT_DIR$/javaCore/m9collections/c8enums/c8enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules/dsaModules.iml" filepath="$PROJECT_DIR$/dsaModules/dsaModules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m5encapsulation/e1accessModifiers/e1accessModifiers.iml" filepath="$PROJECT_DIR$/javaCore/m5encapsulation/e1accessModifiers/e1accessModifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m5encapsulation/e2packages/e2packages.iml" filepath="$PROJECT_DIR$/javaCore/m5encapsulation/e2packages/e2packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m8abstraction/a2interfaces/i1introduction/i1introduction.iml" filepath="$PROJECT_DIR$/javaCore/m8abstraction/a2interfaces/i1introduction/i1introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m8abstraction/a2interfaces/i2extend/i2extend.iml" filepath="$PROJECT_DIR$/javaCore/m8abstraction/a2interfaces/i2extend/i2extend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m8abstraction/a2interfaces/i3nestedInterfaces/i3nestedInterfaces.iml" filepath="$PROJECT_DIR$/javaCore/m8abstraction/a2interfaces/i3nestedInterfaces/i3nestedInterfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m8abstraction/a2interfaces/i4all/i4all.iml" filepath="$PROJECT_DIR$/javaCore/m8abstraction/a2interfaces/i4all/i4all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m9collections/c3lists/l1arrayList/l1arrayList.iml" filepath="$PROJECT_DIR$/javaCore/m9collections/c3lists/l1arrayList/l1arrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules/m2statements/c3loops/l1forLoop/l1forLoop.iml" filepath="$PROJECT_DIR$/dsaModules/m2statements/c3loops/l1forLoop/l1forLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m2statements/s2loops/l1for_Loop/l1for_Loop.iml" filepath="$PROJECT_DIR$/javaCore/m2statements/s2loops/l1for_Loop/l1for_Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m9collections/c3lists/l2linkedList/l2linkedList.iml" filepath="$PROJECT_DIR$/javaCore/m9collections/c3lists/l2linkedList/l2linkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules/m2statements/c3loops/l2whileLoop/l2whileLoop.iml" filepath="$PROJECT_DIR$/dsaModules/m2statements/c3loops/l2whileLoop/l2whileLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m2statements/s2loops/l2while_Loop/l2while_Loop.iml" filepath="$PROJECT_DIR$/javaCore/m2statements/s2loops/l2while_Loop/l2while_Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m10exceptionHandling/m10exceptionHandling.iml" filepath="$PROJECT_DIR$/javaCore/m10exceptionHandling/m10exceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m11javaThreading/m11javaThreading.iml" filepath="$PROJECT_DIR$/javaCore/m11javaThreading/m11javaThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules/m11linkedLists/m11linkedLists.iml" filepath="$PROJECT_DIR$/dsaModules/m11linkedLists/m11linkedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m12fileHandling/m12fileHandling.iml" filepath="$PROJECT_DIR$/javaCore/m12fileHandling/m12fileHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules/m12stackAndQueues/m12stackAndQueues.iml" filepath="$PROJECT_DIR$/dsaModules/m12stackAndQueues/m12stackAndQueues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m13jdbc/m13jdbc.iml" filepath="$PROJECT_DIR$/javaCore/m13jdbc/m13jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules/m13trees/m13trees.iml" filepath="$PROJECT_DIR$/dsaModules/m13trees/m13trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules/m14heaps/m14heaps.iml" filepath="$PROJECT_DIR$/dsaModules/m14heaps/m14heaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules/m15hashMaps/m15hashMaps.iml" filepath="$PROJECT_DIR$/dsaModules/m15hashMaps/m15hashMaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules/m9mathematics/m1bitManipulation/m1bitManipulation.iml" filepath="$PROJECT_DIR$/dsaModules/m9mathematics/m1bitManipulation/m1bitManipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules/m1introduction/m1introduction.iml" filepath="$PROJECT_DIR$/dsaModules/m1introduction/m1introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules/m9mathematics/m2basicMaths/m2basicMaths.iml" filepath="$PROJECT_DIR$/dsaModules/m9mathematics/m2basicMaths/m2basicMaths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules/m3functions/m3functions.iml" filepath="$PROJECT_DIR$/dsaModules/m3functions/m3functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m3functions/m3functions1.iml" filepath="$PROJECT_DIR$/javaCore/m3functions/m3functions1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules/m4patterns/m4patterns.iml" filepath="$PROJECT_DIR$/dsaModules/m4patterns/m4patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules/m5arrays/m5arrays.iml" filepath="$PROJECT_DIR$/dsaModules/m5arrays/m5arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m6inheritance/m6inheritance.iml" filepath="$PROJECT_DIR$/javaCore/m6inheritance/m6inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules/m6strings/m6strings.iml" filepath="$PROJECT_DIR$/dsaModules/m6strings/m6strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules/m8sorting/m8sorting.iml" filepath="$PROJECT_DIR$/dsaModules/m8sorting/m8sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m7polymorphism/p1intoduction/p1intoduction.iml" filepath="$PROJECT_DIR$/javaCore/m7polymorphism/p1intoduction/p1intoduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaProjects/p1simpleCalculator/p1simpleCalculator.iml" filepath="$PROJECT_DIR$/javaProjects/p1simpleCalculator/p1simpleCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaProjects/p2libraryManagementSystem/p2libraryManagementSystem.iml" filepath="$PROJECT_DIR$/javaProjects/p2libraryManagementSystem/p2libraryManagementSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m7polymorphism/p2methods/p2methods.iml" filepath="$PROJECT_DIR$/javaCore/m7polymorphism/p2methods/p2methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m7polymorphism/p3generics/p3generics.iml" filepath="$PROJECT_DIR$/javaCore/m7polymorphism/p3generics/p3generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaProjects/p3libraryManagementSystem/p3libraryManagementSystem.iml" filepath="$PROJECT_DIR$/javaProjects/p3libraryManagementSystem/p3libraryManagementSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaProjects/p4atmSimulatorSystem/p4atmSimulatorSystem.iml" filepath="$PROJECT_DIR$/javaProjects/p4atmSimulatorSystem/p4atmSimulatorSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules/m10recursion/r1introduction/r1introduction.iml" filepath="$PROJECT_DIR$/dsaModules/m10recursion/r1introduction/r1introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules/m10recursion/r2level1Questions/r2level1Questions.iml" filepath="$PROJECT_DIR$/dsaModules/m10recursion/r2level1Questions/r2level1Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules/m10recursion/r3arraysQuestion/r3arraysQuestion.iml" filepath="$PROJECT_DIR$/dsaModules/m10recursion/r3arraysQuestion/r3arraysQuestion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules/m10recursion/r4sorting/r4sorting.iml" filepath="$PROJECT_DIR$/dsaModules/m10recursion/r4sorting/r4sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules/m10recursion/r5stringSubsequence/r5stringSubsequence.iml" filepath="$PROJECT_DIR$/dsaModules/m10recursion/r5stringSubsequence/r5stringSubsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules/m10recursion/r6permutations/r6permutations.iml" filepath="$PROJECT_DIR$/dsaModules/m10recursion/r6permutations/r6permutations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules/m10recursion/r7backtracking/r7backtracking.iml" filepath="$PROJECT_DIR$/dsaModules/m10recursion/r7backtracking/r7backtracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m2statements/s1conditionals/s1conditionals.iml" filepath="$PROJECT_DIR$/javaCore/m2statements/s1conditionals/s1conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules/m7searching/s1linearSearch/s1linearSearch.iml" filepath="$PROJECT_DIR$/dsaModules/m7searching/s1linearSearch/s1linearSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules/m7searching/s2binarySearch/s2binarySearch.iml" filepath="$PROJECT_DIR$/dsaModules/m7searching/s2binarySearch/s2binarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m2statements/s3breakContinue/s3breakContinue.iml" filepath="$PROJECT_DIR$/javaCore/m2statements/s3breakContinue/s3breakContinue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/m2statements/s4switchCases/s4switchCases.iml" filepath="$PROJECT_DIR$/javaCore/m2statements/s4switchCases/s4switchCases.iml" />
+    </modules>
+  </component>
+</project>

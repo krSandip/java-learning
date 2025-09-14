@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="p4atmSimulatorSystem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/javaProjects/p4atmSimulatorSystem/dist/p4atmSimulatorSystem.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

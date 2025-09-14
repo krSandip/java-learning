@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/m8abstraction/a1abstractClasses/a1abstractClasses.iml" filepath="$PROJECT_DIR$/m8abstraction/a1abstractClasses/a1abstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m8abstraction/a2interfaces/a2interfaces.iml" filepath="$PROJECT_DIR$/m8abstraction/a2interfaces/a2interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m8abstraction/a3annotations/a3annotations.iml" filepath="$PROJECT_DIR$/m8abstraction/a3annotations/a3annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m8abstraction/a4reflections/a4reflections.iml" filepath="$PROJECT_DIR$/m8abstraction/a4reflections/a4reflections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m8abstraction/a5lambdaFuctions/a5lambdaFuctions.iml" filepath="$PROJECT_DIR$/m8abstraction/a5lambdaFuctions/a5lambdaFuctions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m9collections/c1Introduction/c1Introduction.iml" filepath="$PROJECT_DIR$/m9collections/c1Introduction/c1Introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m5encapsulation/e3coreClasses/c1ObjectClass/c1ObjectClass.iml" filepath="$PROJECT_DIR$/m5encapsulation/e3coreClasses/c1ObjectClass/c1ObjectClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m4objectsAndClasses/c1classIntro/c1classIntro.iml" filepath="$PROJECT_DIR$/m4objectsAndClasses/c1classIntro/c1classIntro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m5encapsulation/e3coreClasses/c2Class/c2Class.iml" filepath="$PROJECT_DIR$/m5encapsulation/e3coreClasses/c2Class/c2Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m9collections/c2comparableComparator/c2comparableComparator.iml" filepath="$PROJECT_DIR$/m9collections/c2comparableComparator/c2comparableComparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m4objectsAndClasses/c2staticMembers/c2staticMembers.iml" filepath="$PROJECT_DIR$/m4objectsAndClasses/c2staticMembers/c2staticMembers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m9collections/c3lists/c3lists.iml" filepath="$PROJECT_DIR$/m9collections/c3lists/c3lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m5encapsulation/e3coreClasses/c3systemClass/c3systemClass.iml" filepath="$PROJECT_DIR$/m5encapsulation/e3coreClasses/c3systemClass/c3systemClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m9collections/c4sets/c4sets.iml" filepath="$PROJECT_DIR$/m9collections/c4sets/c4sets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m5encapsulation/e3coreClasses/c4wrapperClass/c4wrapperClass.iml" filepath="$PROJECT_DIR$/m5encapsulation/e3coreClasses/c4wrapperClass/c4wrapperClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m9collections/c5maps/c5maps.iml" filepath="$PROJECT_DIR$/m9collections/c5maps/c5maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m5encapsulation/e3coreClasses/c5stringClass/c5stringClass.iml" filepath="$PROJECT_DIR$/m5encapsulation/e3coreClasses/c5stringClass/c5stringClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m5encapsulation/e3coreClasses/c6arrayClass/c6arrayClass.iml" filepath="$PROJECT_DIR$/m5encapsulation/e3coreClasses/c6arrayClass/c6arrayClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m9collections/c6queues/c6queues.iml" filepath="$PROJECT_DIR$/m9collections/c6queues/c6queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m5encapsulation/e3coreClasses/c7nestedClass/c7nestedClass.iml" filepath="$PROJECT_DIR$/m5encapsulation/e3coreClasses/c7nestedClass/c7nestedClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m9collections/c7vectors/c7vectors.iml" filepath="$PROJECT_DIR$/m9collections/c7vectors/c7vectors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m9collections/c8enums/c8enums.iml" filepath="$PROJECT_DIR$/m9collections/c8enums/c8enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m5encapsulation/e1accessModifiers/e1accessModifiers.iml" filepath="$PROJECT_DIR$/m5encapsulation/e1accessModifiers/e1accessModifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m5encapsulation/e2packages/e2packages.iml" filepath="$PROJECT_DIR$/m5encapsulation/e2packages/e2packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m5encapsulation/e3coreClasses/e3coreClasses.iml" filepath="$PROJECT_DIR$/m5encapsulation/e3coreClasses/e3coreClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m8abstraction/a2interfaces/i1introduction/i1introduction.iml" filepath="$PROJECT_DIR$/m8abstraction/a2interfaces/i1introduction/i1introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m8abstraction/a2interfaces/i2extend/i2extend.iml" filepath="$PROJECT_DIR$/m8abstraction/a2interfaces/i2extend/i2extend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m8abstraction/a2interfaces/i3nestedInterfaces/i3nestedInterfaces.iml" filepath="$PROJECT_DIR$/m8abstraction/a2interfaces/i3nestedInterfaces/i3nestedInterfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m8abstraction/a2interfaces/i4all/i4all.iml" filepath="$PROJECT_DIR$/m8abstraction/a2interfaces/i4all/i4all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaCore.iml" filepath="$PROJECT_DIR$/.idea/javaCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m9collections/c3lists/l1arrayList/l1arrayList.iml" filepath="$PROJECT_DIR$/m9collections/c3lists/l1arrayList/l1arrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m2statements/s2loops/l1for_Loop/l1for_Loop.iml" filepath="$PROJECT_DIR$/m2statements/s2loops/l1for_Loop/l1for_Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m9collections/c3lists/l2linkedList/l2linkedList.iml" filepath="$PROJECT_DIR$/m9collections/c3lists/l2linkedList/l2linkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m2statements/s2loops/l2while_Loop/l2while_Loop.iml" filepath="$PROJECT_DIR$/m2statements/s2loops/l2while_Loop/l2while_Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m10exceptionHandling/m10exceptionHandling.iml" filepath="$PROJECT_DIR$/m10exceptionHandling/m10exceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m11javaThreading/m11javaThreading.iml" filepath="$PROJECT_DIR$/m11javaThreading/m11javaThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m12fileHandling/m12fileHandling.iml" filepath="$PROJECT_DIR$/m12fileHandling/m12fileHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m13jdbc/m13jdbc.iml" filepath="$PROJECT_DIR$/m13jdbc/m13jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m1introduction/m1introduction.iml" filepath="$PROJECT_DIR$/m1introduction/m1introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m2statements/m2statements.iml" filepath="$PROJECT_DIR$/m2statements/m2statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m3functions/m3functions.iml" filepath="$PROJECT_DIR$/m3functions/m3functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m4objectsAndClasses/m4objectsAndClasses.iml" filepath="$PROJECT_DIR$/m4objectsAndClasses/m4objectsAndClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m5encapsulation/m5encapsulation.iml" filepath="$PROJECT_DIR$/m5encapsulation/m5encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m6inheritance/m6inheritance.iml" filepath="$PROJECT_DIR$/m6inheritance/m6inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m7polymorphism/m7polymorphism.iml" filepath="$PROJECT_DIR$/m7polymorphism/m7polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m8abstraction/m8abstraction.iml" filepath="$PROJECT_DIR$/m8abstraction/m8abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m9collections/m9collections.iml" filepath="$PROJECT_DIR$/m9collections/m9collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m7polymorphism/p1intoduction/p1intoduction.iml" filepath="$PROJECT_DIR$/m7polymorphism/p1intoduction/p1intoduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m7polymorphism/p2methods/p2methods.iml" filepath="$PROJECT_DIR$/m7polymorphism/p2methods/p2methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m7polymorphism/p3generics/p3generics.iml" filepath="$PROJECT_DIR$/m7polymorphism/p3generics/p3generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m2statements/s1conditionals/s1conditionals.iml" filepath="$PROJECT_DIR$/m2statements/s1conditionals/s1conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m2statements/s2loops/s2loops.iml" filepath="$PROJECT_DIR$/m2statements/s2loops/s2loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m2statements/s3breakContinue/s3breakContinue.iml" filepath="$PROJECT_DIR$/m2statements/s3breakContinue/s3breakContinue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m2statements/s4switchCases/s4switchCases.iml" filepath="$PROJECT_DIR$/m2statements/s4switchCases/s4switchCases.iml" />
+    </modules>
+  </component>
+</project>

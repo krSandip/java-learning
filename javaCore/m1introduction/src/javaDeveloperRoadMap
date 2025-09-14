@@ -1,0 +1,55 @@
+Java Developer Roadmap
+│
+├── Phase 1: Java Fundamentals
+│   ├── Install JDK + IDE
+│   ├── Variables, Data Types, Operators
+│   ├── Control Flow (if, switch, loops)
+│   ├── OOP Basics (Encapsulation, Inheritance, Polymorphism, Abstraction)
+│   └── Small Console Projects
+│
+├── Phase 2: Intermediate Java
+│   ├── Strings & StringBuilder
+│   ├── Arrays & Collections (ArrayList, HashMap, HashSet)
+│   ├── Exception Handling
+│   ├── Static, Final, Nested Classes, Enums
+│   └── Console Apps (Library, To-Do List)
+│
+├── Phase 3: Advanced Java
+│   ├── File Handling (I/O Streams)
+│   ├── Multi-threading & Synchronization
+│   ├── Java 8+ Features (Lambdas, Streams, Optional)
+│   ├── Generics, Annotations
+│   └── Date & Time API
+│
+├── Phase 4: Databases & JDBC
+│   ├── SQL Basics (CRUD, Joins)
+│   ├── JDBC (Connection, PreparedStatement, Transactions)
+│   ├── DAO Pattern
+│   └── CRUD Application
+│
+├── Phase 5: Frameworks
+│   ├── Maven/Gradle
+│   ├── Spring Core (DI, Beans)
+│   ├── Spring Boot (REST APIs)
+│   ├── Spring MVC, Spring Data JPA
+│   ├── Hibernate ORM
+│   └── Spring Security
+│
+├── Phase 6: Tools & Deployment
+│   ├── Git & GitHub
+│   ├── JUnit, Mockito
+│   ├── Postman API Testing
+│   ├── Logging (SLF4J)
+│   └── Docker & CI/CD
+│
+├── Phase 7: DSA & Interview Prep
+│   ├── Data Structures (Stack, Queue, Tree, Graph)
+│   ├── Algorithms (Sorting, Searching, DP)
+│   ├── Java-specific coding challenges
+│
+└── Phase 8: Projects
+    ├── Library Management System
+    ├── Online Banking System
+    ├── E-commerce API
+    ├── Chat Application
+    └── Expense Tracker

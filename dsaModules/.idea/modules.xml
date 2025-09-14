@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/m2statements/c1conditionals/c1conditionals.iml" filepath="$PROJECT_DIR$/m2statements/c1conditionals/c1conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m2statements/c2switchCases/c2switchCases.iml" filepath="$PROJECT_DIR$/m2statements/c2switchCases/c2switchCases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m2statements/c3loops/c3loops.iml" filepath="$PROJECT_DIR$/m2statements/c3loops/c3loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaModules.iml" filepath="$PROJECT_DIR$/dsaModules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m2statements/c3loops/l1forLoop/l1forLoop.iml" filepath="$PROJECT_DIR$/m2statements/c3loops/l1forLoop/l1forLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m2statements/c3loops/l2whileLoop/l2whileLoop.iml" filepath="$PROJECT_DIR$/m2statements/c3loops/l2whileLoop/l2whileLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m10recursion/m10recursion.iml" filepath="$PROJECT_DIR$/m10recursion/m10recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m11linkedLists/m11linkedLists.iml" filepath="$PROJECT_DIR$/m11linkedLists/m11linkedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m12stackAndQueues/m12stackAndQueues.iml" filepath="$PROJECT_DIR$/m12stackAndQueues/m12stackAndQueues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m13trees/m13trees.iml" filepath="$PROJECT_DIR$/m13trees/m13trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m14heaps/m14heaps.iml" filepath="$PROJECT_DIR$/m14heaps/m14heaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m15hashMaps/m15hashMaps.iml" filepath="$PROJECT_DIR$/m15hashMaps/m15hashMaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m9mathematics/m1bitManipulation/m1bitManipulation.iml" filepath="$PROJECT_DIR$/m9mathematics/m1bitManipulation/m1bitManipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m1introduction/m1introduction.iml" filepath="$PROJECT_DIR$/m1introduction/m1introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m9mathematics/m2basicMaths/m2basicMaths.iml" filepath="$PROJECT_DIR$/m9mathematics/m2basicMaths/m2basicMaths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m2statements/m2statements.iml" filepath="$PROJECT_DIR$/m2statements/m2statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m3functions/m3functions.iml" filepath="$PROJECT_DIR$/m3functions/m3functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m4patterns/m4patterns.iml" filepath="$PROJECT_DIR$/m4patterns/m4patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m5arrays/m5arrays.iml" filepath="$PROJECT_DIR$/m5arrays/m5arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m6strings/m6strings.iml" filepath="$PROJECT_DIR$/m6strings/m6strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m7searching/m7searching.iml" filepath="$PROJECT_DIR$/m7searching/m7searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m8sorting/m8sorting.iml" filepath="$PROJECT_DIR$/m8sorting/m8sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m9mathematics/m9mathematics.iml" filepath="$PROJECT_DIR$/m9mathematics/m9mathematics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m10recursion/r1introduction/r1introduction.iml" filepath="$PROJECT_DIR$/m10recursion/r1introduction/r1introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m10recursion/r2level1Questions/r2level1Questions.iml" filepath="$PROJECT_DIR$/m10recursion/r2level1Questions/r2level1Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m10recursion/r3arraysQuestion/r3arraysQuestion.iml" filepath="$PROJECT_DIR$/m10recursion/r3arraysQuestion/r3arraysQuestion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m10recursion/r4sorting/r4sorting.iml" filepath="$PROJECT_DIR$/m10recursion/r4sorting/r4sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m10recursion/r5stringSubsequence/r5stringSubsequence.iml" filepath="$PROJECT_DIR$/m10recursion/r5stringSubsequence/r5stringSubsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m10recursion/r6permutations/r6permutations.iml" filepath="$PROJECT_DIR$/m10recursion/r6permutations/r6permutations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m10recursion/r7backtracking/r7backtracking.iml" filepath="$PROJECT_DIR$/m10recursion/r7backtracking/r7backtracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m7searching/s1linearSearch/s1linearSearch.iml" filepath="$PROJECT_DIR$/m7searching/s1linearSearch/s1linearSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m7searching/s2binarySearch/s2binarySearch.iml" filepath="$PROJECT_DIR$/m7searching/s2binarySearch/s2binarySearch.iml" />
+    </modules>
+  </component>
+</project>
