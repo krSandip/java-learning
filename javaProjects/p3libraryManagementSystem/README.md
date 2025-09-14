@@ -55,6 +55,12 @@ This project provides a simple yet complete GUI-based desktop application for li
 
 ---
 
+🖥️ Sample Output
+
+    <img width="1920" height="1019" alt="p1loading" src="https://github.com/user-attachments/assets/3934ace7-f268-4c50-8ef4-68cd8e628654" />
+
+---
+
 🎯 Future Enhancements
 
    Add Admin Panel for managing users.
