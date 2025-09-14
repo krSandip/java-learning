@@ -45,8 +45,7 @@ The project uses a properties file for DB configuration.
 
 ▶️ How to Run
 
-1. Clone this repository:
-   git clone https://github.com/krSandip/p2libraryManagementSystem.git
+1. Clone this repository.
 2. Open project in IntelliJ IDEA / Eclipse.
 3. Make sure MySQL Server is running and database is set up.
 4. Run l1createPropertiesFile.java once to generate db.properties.
@@ -62,50 +61,6 @@ The project uses a properties file for DB configuration.
 
 🖥️ Sample Output
 
----------------------------------------------------------
----------------------------------------------------------
-Select The Following Options
-Enter 1 To Add New Member : 
-Enter 2 To Add New Book : 
-Enter 3 To Issue A Book : 
-Enter 4 To Return A Book : 
-Enter 5 To Exit : 
-1
----------------------------------------------------------
-You Have Selected Option 1 To Add A New Member
-Reached Inside The Member Menu
-Enter Member id : 
-555
-Enter Member Name : 
-555 member name
-Reached Inside Add member For Member : 555
-Member Added Successfully !!
----------------------------------------------------------
----------------------------------------------------------
-Select The Following Options
-Enter 1 To Add New Member : 
-Enter 2 To Add New Book : 
-Enter 3 To Issue A Book : 
-Enter 4 To Return A Book : 
-Enter 5 To Exit : 
-2
----------------------------------------------------------
-You Have Selected Option 2 To Add A New Book
-Reached Inside The Book Menu
-Enter isbn code : 
-5050
-Enter book name : 
-5050 book name
-Enter book desc : 
-5050 desc
-Enter author name : 
-5050 author
-Enter subject : 
-5050 subject
-Enter units available : 
-6
-Reached Inside Add Book For Book : 5050
-Book Added Successfully !!
 ---------------------------------------------------------
 ---------------------------------------------------------
 Select The Following Options
