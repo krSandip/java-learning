@@ -25,17 +25,15 @@ I have successfully **completed the Online Java Certification Course from Intell
 
 ## 🛠️ Technologies Used
 
-Language: Java
-IDE: IntelliJ IDEA / Eclipse / VS Code
-Database: MySQL (for JDBC module)
-Concepts: Java Core + OOPs + Multithreading + Exception Handling + Collections
+*  Language: Java
+*  IDE: IntelliJ IDEA / Eclipse / VS Code
+*  Database: MySQL (for JDBC module)
 
 ---
 
 ## 🎓 Certification
 
-I have completed the Online Java Certification from Intellipaat ✅
-This course provided me with in-depth knowledge of Core Java, OOPs, Multithreading, Collections, and JDBC along with practical assignments and projects.
+✅ I have completed the Online Java Certification from Intellipaat
 
    <img width="1895" height="870" alt="lecture" src="https://github.com/user-attachments/assets/4994b537-78fa-40f1-91e1-832c6b56934b" />
 
@@ -43,14 +41,14 @@ This course provided me with in-depth knowledge of Core Java, OOPs, Multithreadi
 
    <img width="1895" height="871" alt="quize11" src="https://github.com/user-attachments/assets/f17cc37d-4afb-49b8-95b1-22ca41a8cfbb" />
 
-Certificate : https://intellipaat.com/academy/certificate-link/?Yz05MjcmdT0yNjMyNDkmZXh0PTE=
+*  Certificate : https://intellipaat.com/academy/certificate-link/?Yz05MjcmdT0yNjMyNDkmZXh0PTE=
 
-   <img width="1899" height="869" alt="javaCertificate" src="https://github.com/user-attachments/assets/5b61d79e-5b26-4e76-bf91-458452e46af8" />
+   <img width="1463" height="869" alt="javaCertificate" src="https://github.com/user-attachments/assets/6063dea6-6520-411b-bb1a-79e3a7c9fe5f" />
 
 Learning Resources
-   📘 Online Java Certification from Intellipaat
-   🌐 GeeksforGeeks, LeetCode, and HackerRank for practice
-   📺 YouTube tutorials & documentation
+   *  Online Java Certification from Intellipaat
+   *  GeeksforGeeks, LeetCode, and HackerRank for practice
+   *  YouTube tutorials & documentation
 
 ---
 
